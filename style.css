@@ -1,0 +1,12 @@
+
+h1, h2{
+    text-align: center;
+}
+#login-form{
+    display: block;
+    margin: 0 auto;
+    width: 14%;
+}
+#login-form input{
+    margin-top: 10px;
+}
